@@ -17,17 +17,18 @@ The dataset includes:
 - Day of Week
 
 ## 📊 Key Insights at a Glance
--✅ Total Revenue
--✅ Total Orders
--✅ Total Pizzas Sold
--✅ Average Order Value
--✅ Average Pizzas Per Order
--✅ Top Category
--✅ Top Size
--✅ Best Seller
--✅ Worst Performer
--✅ Sales % by Category
--✅ Sales % by Size
+
+- ✅ Total Revenue
+- ✅ Total Orders
+- ✅ Total Pizzas Sold
+- ✅ Average Order Value
+- ✅ Average Pizzas Per Order
+- ✅ Top Category
+- ✅ Top Size
+- ✅ Best Seller
+- ✅ Worst Performer
+- ✅ Sales % by Category
+- ✅ Sales % by Size
 
 ## 📈 Dashboard View
 -Daily & hourly order trends
