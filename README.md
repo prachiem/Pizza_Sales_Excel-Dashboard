@@ -17,7 +17,7 @@ The dataset includes:
 - Day of Week
 
 ## 📊 Key Insights at a Glance
-✅ ✅ Total Revenue: $68,230
+✅ Total Revenue: $68,230
 ✅ Total Orders: 1,773
 ✅ Total Pizzas Sold: 4,107
 ✅ Average Order Value: $38.48
