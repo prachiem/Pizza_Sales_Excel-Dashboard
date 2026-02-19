@@ -59,5 +59,6 @@ The main objective of this dashboard is to help pizzerias:
 
 
 ### 🔖 Tags
-#ExcelDashboard #DataVisualization #HealthcareAnalytics #ExcelProject  
-#BusinessIntelligence #ExcelSkills #DashboardDesign #DataAnalytics
+#ExcelDashboard #DataVisualization #SalesAnalytics #PizzaSales
+#ExcelProject #BusinessIntelligence #DashboardDesign #DataAnalytics
+
