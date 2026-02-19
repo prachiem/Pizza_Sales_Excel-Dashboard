@@ -17,19 +17,17 @@ The dataset includes:
 - Day of Week
 
 ## 📊 Key Insights at a Glance
-✅ Total Revenue: $68,230
-✅ Total Orders: 1,773
-✅ Total Pizzas Sold: 4,107
-✅ Average Order Value: $38.48
-✅ Average Pizzas Per Order: 2.32
-✅ Busiest Days: Weekends & Friday/Saturday evenings
-✅ Peak Hours: 12–1 PM & 4–8 PM
-✅ Top Category: Classic contributes most to sales
-✅ Top Size: Large pizzas drive maximum revenue
-✅ Best Seller: Classic Deluxe & Chicken Pizza
-✅ Worst Performer: Brie Carre Pizza
-✅ Sales % by Category: Classic (23.58%), Supreme (26.43%), Chicken (23.47%)
-✅ Sales % by Size: Medium (46.16%), Regular (31.32%)
+✅ Total Revenue
+✅ Total Orders
+✅ Total Pizzas Sold
+✅ Average Order Value
+✅ Average Pizzas Per Order
+✅ Top Category
+✅ Top Size
+✅ Best Seller
+✅ Worst Performer
+✅ Sales % by Category
+✅ Sales % by Size
 
 ## 📈 Dashboard View
 -Daily & hourly order trends
